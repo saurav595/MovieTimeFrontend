@@ -104,8 +104,6 @@ const Movie = ({user}) => {
                                                 })
                                             }
                                             }
-                                            
-                                            
                                             >
                                                 Delete
                                             </Button>
