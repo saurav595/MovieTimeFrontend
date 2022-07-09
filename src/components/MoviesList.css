@@ -4,6 +4,7 @@
 
 .card {
     margin-top: 15px;
+    z-index: 1;
 }
 
 .moviesListCard {
@@ -16,4 +17,20 @@ div.poster {
 
 .smallPoster {
     user-select: none;
+}
+
+.star {
+    position: absolute;
+    z-index: 1;
+    width: 32.5em;
+    height: 4em;
+    filter: drop-shadow(2px 4px 6px black);
+}
+
+.starFill {
+    fill: yellow;
+}
+
+.starEmpty {
+    fill: white;
 }
