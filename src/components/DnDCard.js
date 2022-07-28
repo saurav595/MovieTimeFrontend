@@ -79,7 +79,7 @@ export const DnDCard = ({ id, title, index, moveFavorite, poster }) => {
 
     const indexLength = () => {
         let indexLen = (index + 1).toString().length;
-        if (indexLen == 1) {
+        if (indexLen === 1) {
             return "favoritesNumber favoritesNumberOneDigit"
         } else {
             return "favoritesNumber favoritesNumberTwoDigit"
