@@ -114,6 +114,7 @@ const MoviesList = ({
     }
 
 
+
     return (
         <div className="App">
             <Container className="main-container">
