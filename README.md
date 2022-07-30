@@ -1,3 +1,8 @@
+# Functionality
+
+This web application catalogs 650 different movies with a MongoDB Atlas Cloud DB, it further helps users login using google authentication, and pick favorite movies, add/edit/delete reviews, and rank their favorites.
+
+
 ## HW-2 Screenshots
 ![image](public/images/HW2-1.png)
 ![image](public/images/HW2-2.png)
