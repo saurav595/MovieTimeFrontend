@@ -2,29 +2,7 @@
 
 This web application catalogs 650 different movies with a MongoDB Atlas Cloud DB, it further helps users login using google authentication, and pick favorite movies, add/edit/delete reviews, and rank their favorites.
 
-
-## HW-2 Screenshots
-![image](public/images/HW2-1.png)
-![image](public/images/HW2-2.png)
-
-## HW-3 Screenshots
-![image](public/images/HW3-1.png)
-![image](public/images/HW3-2.png)
-![image](public/images/HW3-3.png)
-
-## HW-4 Screenshots
-![image](public/images/HW4-1.png)
-![image](public/images/HW4-2.png)
-![image](public/images/HW4-3.png)
-
-## HW-5 Screenshots
-![image](public/images/HW5-1.png)
-![image](public/images/HW5-2.png)
-
-## HW-6 Screenshots
-![image](public/images/HW6-1.png)
-![image](public/images/HW6-2.png)
-
+Heroku Link: https://movietime-frontend-sauravshah.herokuapp.com/
 
 # Getting Started with Create React App
 
